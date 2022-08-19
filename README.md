@@ -29,7 +29,7 @@ My app provides the visual information about Color Blindness, which effectively 
 Follow the steps. Arrows will guide you to the next step.
 Just type! to see the changes of the color and click the toggle that can make you understand about what's happening in the eyes.
 <br/>
-
+<br/>
 
 ## Simulation Video
 
@@ -37,6 +37,9 @@ Just type! to see the changes of the color and click the toggle that can make yo
 
 https://user-images.githubusercontent.com/89404664/185530979-d0627f9f-5273-41e5-849d-bb5f6b89b024.mp4
 
+
+
+<br/>
 
 
 ## License
