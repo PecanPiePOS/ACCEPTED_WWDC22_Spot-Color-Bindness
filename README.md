@@ -1,4 +1,4 @@
-# Spot-Color-Bindness - _WWDC22 Swift Student Challenge_ [Accepted]
+# Spot Color Bindness - _🍎 WWDC22 Swift Student Challenge 🏆_ [Accepted]
 
 My app provides the visual information about Color Blindness, which effectively can teach the complex reason that cause the impairment to children. Plus, the app shows how each color blinded people see the familiar places like looking at foods, traffic lights, and watching the TVs shows.
   
