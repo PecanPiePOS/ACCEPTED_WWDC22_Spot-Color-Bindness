@@ -33,13 +33,18 @@ Just type! to see the changes of the color and click the toggle that can make yo
 
 ## Simulation Video
 
-
-
 https://user-images.githubusercontent.com/89404664/185530979-d0627f9f-5273-41e5-849d-bb5f6b89b024.mp4
 
+- 
+
+## The gift I got from Apple
+
+<img src="https://github.com/PecanPiePOS/ACCEPTED_WWDC22_Spot-Color-Bindness/assets/89404664/571eb9ec-f973-4721-8e21-ef389a34b5c5" width="300"> <img src="https://github.com/PecanPiePOS/ACCEPTED_WWDC22_Spot-Color-Bindness/assets/89404664/89b2daa3-a433-4550-acb5-8add101f22e5" width="300"> <img src="https://github.com/PecanPiePOS/ACCEPTED_WWDC22_Spot-Color-Bindness/assets/89404664/a19060ac-2e2f-4758-9034-8a88c773fe84" width="300">
 
 
 <br/>
+
+
 
 
 ## License
